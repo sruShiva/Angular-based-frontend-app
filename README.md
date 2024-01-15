@@ -1,4 +1,4 @@
-# Utopia_tech_task2
+# Angular based frontend app
 
 
 Description:
